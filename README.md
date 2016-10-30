@@ -5,8 +5,7 @@ Installs firewalld.
 None.
 
 ## Role Variables
-|Key|Type|Description|Default|
-|:--|:---|:----------|:------|
+None.
 
 ## Dependencies
 None.
