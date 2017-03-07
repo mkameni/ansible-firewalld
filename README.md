@@ -1,7 +1,7 @@
 Role Name
 =========
 
-[![Build Status](https://travis-ci.org/shomatan/ansible-nginx.svg?branch=master)](https://travis-ci.org/shomatan/ansible-lightbend-activator)
+[![Build Status](https://travis-ci.org/shomatan/ansible-nginx.svg?branch=master)](https://travis-ci.org/shomatan/ansible-firewalld)
 
 Installs firewalld.
 
